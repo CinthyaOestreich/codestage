@@ -9,7 +9,7 @@
    ### Anderson Monteiro
    ### Carlos Silla
    ### Cinthya Oestreich
-   ### Priscilla Perks
+   ### Priscilla Preks
 
 
 # Descrição do Projeto 
