@@ -1,4 +1,4 @@
-# Code/Stage Hackaton Sony Music 2020
+# Code/Stage Hackathon Sony Music 2020
 
 ## Desafio
 #### https://www.codestage.com.br/
