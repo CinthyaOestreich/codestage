@@ -12,7 +12,7 @@
    ### Priscilla Preks
 
 
-# Descrição do Projeto 
+## Descrição do Projeto 
 
 No cenário crescente de novos artistas e consumo de música via streaming, descobrir novos conteúdos e identificar bandas/artistas com maior potencial de sucesso é um desafio, ainda mais com algoritmos que privilegiam o que é mais popular. 
 
