@@ -21,4 +21,5 @@ Nossa proposta é aprimorar a experiência na plataforma FILTR, através de uma 
 Além de promover uma melhor experiência para o usuário, ampliando seus horizontes musicais, a solução promove maior visibilidade de novos artistas e lançamentos, além de coletar e analisar dados importantes para guiar estratégias assertivas.
 
 
-![img](https://github.com/CinthyaOestreich/codestage/blob/main/Time_29_imagem.JPG)
+
+  ![img](https://github.com/CinthyaOestreich/codestage/blob/main/Time_29_imagem.JPG)
